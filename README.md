@@ -26,3 +26,5 @@ Quiting.  The issue never happened
 ```
 
 If the issue doesn't happen, there are some parameters you can tweak at the top of `Runner/Program.cs` that may make it easier to reproduce
+
+Bug report https://github.com/dotnet/runtime/issues/70742
